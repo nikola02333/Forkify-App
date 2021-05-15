@@ -6,8 +6,8 @@ import searcgView from './views/searchView';
 import resultsView from './views/resultsViews';
 import paginationView from './views/paginationView';
 import recepieView from './views/recepieView.js';
-import bookmarksView from './views/bookmarksView';
-import addRecepieView from './views/AddRecepieView';
+import bookmarksView from './views/bookmarksView.js';
+import addRecepieView from './views/AddRecepieView.js';
 
 import {MODAL_CLOSE_SEC} from './config';
 
