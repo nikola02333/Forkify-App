@@ -1,0 +1,16 @@
+{
+    "terminal.integrated.env.windows": {
+
+    },
+    "liveServer.settings.CustomBrowser": "chrome",
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#229977"
+      }
+}
