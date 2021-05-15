@@ -12,6 +12,7 @@ import addRecepieView from './views/addRecepieView.js';
 import {MODAL_CLOSE_SEC} from './config';
 
 
+console.log('Hello from console');
 const controlRecipes = async function (){
   try{
     
