@@ -7,7 +7,7 @@ import resultsView from './views/resultsViews';
 import paginationView from './views/paginationView';
 import recepieView from './views/recepieView.js';
 import bookmarksView from './views/bookmarksView.js';
-import addRecepieView from './views/AddRecepieView.js';
+import addRecepieView from './views/addRecepieView.js';
 
 import {MODAL_CLOSE_SEC} from './config';
 
